@@ -1,16 +1,15 @@
-#pragma hdrstop
-#pragma argsused
+#include <iostream>
+#include <string>
+#include "IRClientTCP.h"
+int(main){
+	int pan;
+	char trame;
+	IRClientTCP monclient;
+	while (true){
 
-#ifdef _WIN32
-#include <tchar.h>
-#else
-  typedef char _TCHAR;
-  #define _tmain main
-#endif
+		pan=nombre saisi;
+		trame[0]=pan
+		monclient.SeConnecterAUnServeur("ip",4123)
+		monclient.Envoyer(trame,512)	}
 
-#include <stdio.h>
-
- int _tmain(int argc, _TCHAR* argv[]) 
-{
-	return 0;
-}
+	}
