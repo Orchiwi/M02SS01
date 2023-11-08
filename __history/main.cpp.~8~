@@ -1,16 +1,13 @@
 #include <iostream>
 #include <string>
 #include "IRClientTCP.h"
-intmain(){
-
+int main(){
 	IRClientTCP monclient;
 	unsigned char trame[512];
     int pan;
 	while (true){
-
-		pan=nombre saisi;
-		trame[0]=pan
-		monclient.SeConnecterAUnServeur("ip",4123)
-		monclient.Envoyer(trame,512)	}
-
-	}
+	cin >> pan trame[0]=pan;
+	monclient.SeConnecterAUnServeur("172.20.21.17",4123);
+	monclient.Envoyer(trame,512);
+	}return 0;
+}
