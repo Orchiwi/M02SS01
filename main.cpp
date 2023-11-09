@@ -3,6 +3,7 @@
 #include "IRClientTCP.h"
 #include "DMXTCP.h"
 
+using namespace std;
 
 /*int main(){
 	IRClientTCP monclient;
