@@ -1,0 +1,23 @@
+#ifndef DMXTCP_H
+#define DMXTCP_H
+#include <iostream>
+#include <string>
+#include "IRClientTCP.h"
+#define WIN32_LEAN_AND_MEAN
+using namespace std;
+
+
+class DMXTCP
+{
+private :
+unsigned char trame[512];
+IRClientTCP monclient;
+
+public:
+DMXTCP();
+void ModifierCanal(unsigned short canal, unsigned short valeur);
+void Envoyer(char IP[16], unsigned short port);
+void FullOn();
+void FullOff();
+void Demonstration();
+};
