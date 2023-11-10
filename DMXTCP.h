@@ -1,9 +1,8 @@
 #ifndef DMXTCP_H
 #define DMXTCP_H
-#include <iostream>
-#include <string>
+
 #include "IRClientTCP.h"
-using namespace std;
+
 
 
 class DMXTCP
@@ -24,3 +23,4 @@ private :
 
 };
 
+#endif

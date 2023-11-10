@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/07 10:11:36.000.783,=C:\Users\amorlet\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2023/11/07 10:11:36.000.791,=C:\Users\amorlet\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2023/11/07 10:12:10.000.641,C:\Users\amorlet\Documents\Embarcadero\Studio\Projets\File1.cpp=C:\Users\amorlet\Documents\code\main.cpp</Transaction>
+    <Transaction>2023/11/07 10:13:44.000.155,=C:\Users\amorlet\Documents\code\IRClientTCP.cpp</Transaction>
+    <Transaction>2023/11/07 10:13:44.000.143,=C:\Users\amorlet\Documents\code\IRClientTCP.h</Transaction>
+    <Transaction>2023/11/07 11:30:13.000.963,C:\Users\amorlet\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\amorlet\Documents\Project1PCH1.h</Transaction>
+    <Transaction>2023/11/07 11:30:15.000.530,C:\Users\amorlet\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\amorlet\Documents\code\Project1.cbproj</Transaction>
+    <Transaction>2023/11/09 08:50:30.098,=C:\Users\amorlet\Documents\code\DMXTCP.cpp</Transaction>
+    <Transaction>2023/11/09 08:52:35.869,=C:\Users\amorlet\Documents\code\DMXTCP.h</Transaction>
+  </Transactions>
+</BorlandProject>

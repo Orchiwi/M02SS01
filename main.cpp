@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "IRClientTCP.h"
+
 #include "DMXTCP.h"
 
 using namespace std;
